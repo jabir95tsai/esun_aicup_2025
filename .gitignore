@@ -1,0 +1,15 @@
+# 忽略資料集資料夾 (比賽資料不應公開上傳)
+data/
+*.csv
+
+# 忽略 Python 編譯產生的快取檔案
+__pycache__/
+*.py[cod]
+
+# 忽略 Mac 系統產生的檔案
+.DS_Store
+
+# 忽略虛擬環境
+.venv/
+env/
+venv/
