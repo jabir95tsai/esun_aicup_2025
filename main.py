@@ -76,10 +76,10 @@ def run_model_training_and_prediction(df_final_pd, df_predict_pd, feature_cols, 
             n_estimators=2000,
             learning_rate=0.03, 
             num_leaves=63, 
-            subsample=0.9,          # 補回遺漏參數
-            colsample_bytree=0.9,   # 補回遺漏參數
-            reg_alpha=0.0,          # 補回遺漏參數
-            reg_lambda=0.0,         # 補回遺漏參數
+            subsample=0.9,          
+            colsample_bytree=0.9,   
+            reg_alpha=0.0,          
+            reg_lambda=0.0,           
             random_state=42, 
             n_jobs=-1,
             scale_pos_weight=scale_pos_weight, 
@@ -117,8 +117,8 @@ def run_model_training_and_prediction(df_final_pd, df_predict_pd, feature_cols, 
         n_estimators=final_n_estimators,
         learning_rate=0.03, 
         num_leaves=63, 
-        subsample=0.9,          # 補回遺漏參數
-        colsample_bytree=0.9,   # 補回遺漏參數
+        subsample=0.9,          
+        colsample_bytree=0.9,   
         reg_alpha=0.0,
         reg_lambda=0.0,
         random_state=42, 
