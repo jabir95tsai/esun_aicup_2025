@@ -79,6 +79,7 @@ esun_aicup_2025/
 ├── tests/
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
@@ -241,23 +242,8 @@ python -m pytest -q
 
 ## 授權
 
-若未來打算將本專案公開開源，建議補充：
-
-- 授權檔，例如 **MIT** 或 **Apache-2.0**
-- 資料使用說明，特別是競賽資料集的使用限制
-- 與競賽規範相關的再散布或公開限制條款
 
 在尚未加入授權檔前，原則上可視為保留所有權利。
 ```
 
-你這次會跑掉的真正原因就一個：
 
-- **不要在 README 的 code fence 裡加 `id="..."`**
-
-GitHub 只吃標準 Markdown。
-
-你要的話，我也可以直接幫你做一版 **更像競賽隊伍 GitHub 首頁的 README**，再加上：
-- Quick Start
-- 成果展示
-- FAQ
-- TODO
