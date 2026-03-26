@@ -1,13 +1,10 @@
-# E.SUN AI Cup 2025 — 異常帳戶偵測
+# AI CUP 2025 玉山人工智慧公開挑戰賽－AI偵探出任務，精準揪出警示帳戶！
 
-[![Python](https://img.shields.io/badge/Python-3.12%2B-blue)](#環境建置)
-[![Machine Learning](https://img.shields.io/badge/Task-Anomaly%20Detection-informational)](#專案簡介)
-[![LightGBM](https://img.shields.io/badge/Modeling-LightGBM-green)](#專案特色)
-[![Tests](https://img.shields.io/badge/Tests-pytest-lightgrey)](#測試)
 
-一個用於 **E.SUN AI Cup 2025 異常帳戶偵測任務** 的 Python 機器學習流程專案。
 
-本專案採用 `src` 結構，具備清楚的訓練入口、可配置化執行方式，以及輕量測試支援，適合用於競賽開發、實驗管理與團隊協作。
+#### 一個參加 AI CUP 2025 玉山人工智慧公開挑戰賽－AI偵探出任務，精準揪出警示帳戶！ 獲得 34 / 790 名之成績的 Python 機器學習專案。
+
+
 
 ---
 
